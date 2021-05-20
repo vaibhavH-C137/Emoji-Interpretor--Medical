@@ -1,2 +1,2 @@
-# Emoji-Interpretor_MedicalEmoji
+# Emoji-Interpretor_MedicalEmoji [COVID-19]
  
